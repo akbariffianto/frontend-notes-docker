@@ -10,7 +10,7 @@
   let editingNote = null;
   let showNotification = false;
 
-  const API_URL = "https://akbar-notes-13926268988.us-central1.run.app/notes";
+  const API_URL = "https://backend-notes-13926268988.us-central1.run.app/notes";
 
   // Mengambil semua catatan dari backend
   async function fetchNotes() {
