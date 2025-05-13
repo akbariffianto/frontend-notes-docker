@@ -11,7 +11,7 @@
   let error = null;
   let loading = false;
 
-  const API_URL = "https://akbar-tugas6-13926268988.us-central1.run.app/notes";
+  const API_URL = "https://notes-backend-akbar-13926268988.us-central1.run.app/notes";
 
   // Fetch all notes
   async function fetchNotes() {
